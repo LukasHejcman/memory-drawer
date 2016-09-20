@@ -11,4 +11,4 @@ Current Issues:
 
 TO-DO
 ----------------
-* Try writing the program with different threads to force the memory to clear
+* Try writing the program using Python threads to force the memory to clear
